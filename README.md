@@ -3,6 +3,13 @@ leap2Gml
 
 leapToGml is a processing project that aim to combine the leap motion with the gml file format created by evan roth. It is still a work in progress but soon it will be turned into a proper class rather than an application for easier usage.
 
+##Before you start
+Make sure you have the following librairies installed : 
+- controleP5
+- toxic lib
+- [leap-motion-processing](https://github.com/voidplus/leap-motion-processing)
+- [gml4U](http://www.graffitimarkuplanguage.com/gml4u/)
+
 #How does it work ? 
 
 ##Save drawing in gml file
