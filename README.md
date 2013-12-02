@@ -19,8 +19,8 @@ This application allow you to simply save your drawing as a gml file that you ex
 Something went wrong when drawing and you don't want to redo everything ? just click on _remove last stroke_.
 If you don't like what you did at all then just erase the drawing by clicking on _clear_
 
-I you want to replay your drawing : 
-To visualize what you save you can simply replay your drawing
+##Replay the drawing
+To visualize what you saved you can simply replay your drawing
 
 - click on load gml (load the gml file name you typed in the text field)
 - play the gml ( it's still a beta version so might want to click once or twice :p )
