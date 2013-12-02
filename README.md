@@ -6,7 +6,9 @@ leapToGml is a processing project that aim to combine the leap motion with the g
 #How does it work ? 
 
 ##Save drawing in gml file
-This application allow you to simply save your drawing as a gml file that you export in other projects. In order to do so : 
+This application allows you to simply save your drawing as a gml file that you can export in other projects. 
+
+In order to do so : 
 
 - plug your leap motion to your computer 
 - run the sketch
